@@ -1,0 +1,9 @@
+*{
+    margin: 2px;
+    padding: 0px;
+    border-width: border-box;
+}
+.applous{
+    color: rgb(204, 2, 2);
+    font: oblique;
+}
